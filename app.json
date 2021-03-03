@@ -1,0 +1,12 @@
+{
+  "name": "Medi-Check",
+  "displayName": "Medi-Check",
+  "expo": {
+    "name": "Medi-Check",
+    "slug": "Medi-Check",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
